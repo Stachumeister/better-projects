@@ -1,2 +1,2 @@
 # better-projects
-something
+Napisz tu cos potem 
